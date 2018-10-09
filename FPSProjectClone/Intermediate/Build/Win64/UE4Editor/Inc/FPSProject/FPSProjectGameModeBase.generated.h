@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FPSPROJECT_FPSProjectGameModeBase_generated_h
 
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFPSProjectGameModeBase(); \
 	friend struct Z_Construct_UClass_AFPSProjectGameModeBase_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(AFPSProjectGameModeBase)
 
 
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAFPSProjectGameModeBase(); \
 	friend struct Z_Construct_UClass_AFPSProjectGameModeBase_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(AFPSProjectGameModeBase)
 
 
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AFPSProjectGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AFPSProjectGameModeBase) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AFPSProjectGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -59,32 +59,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFPSProjectGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AFPSProjectGameModeBase)
 
 
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_12_PROLOG
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_12_PROLOG
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_GENERATED_BODY \
+#define FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	FPSProject_Source_FPSProject_FPSProjectGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+	FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FPSProject_Source_FPSProject_FPSProjectGameModeBase_h
+#define CURRENT_FILE_ID FPSProjectClone_Source_FPSProject_FPSProjectGameModeBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

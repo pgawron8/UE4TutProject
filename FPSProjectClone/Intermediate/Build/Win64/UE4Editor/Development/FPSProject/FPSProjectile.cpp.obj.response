@@ -401,21 +401,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "C:\Users\Peter\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject"
-/I "C:\Users\Peter\Documents\Unreal Projects\FPSProject\Source"
-/I "C:\Users\Peter\Documents\Unreal Projects\FPSProject\Source\FPSProject"
+/I C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject
+/I C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Source
+/I C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Source\FPSProject
 /I "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.14393.0\winrt"
-/FI"C:\Users\Peter\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Peter\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Peter\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Peter\Documents\Unreal Projects\FPSProject\Source\FPSProject\FPSProjectile.cpp"
-/FI"C:\Users\Peter\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h"
-/Fo"C:\Users\Peter\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectile.cpp.obj"
+/FI"C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Source\FPSProject\FPSProjectile.cpp"
+/FI"C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h"
+/Fo"C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectile.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,0 +1,3 @@
+C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Source\FPSProject\FPSProject.Build.cs
+C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Source\FPSProject.Target.cs
+C:\Users\Peter\Documents\GitHub\UE4TutProject\FPSProjectClone\Source\FPSProjectEditor.Target.cs

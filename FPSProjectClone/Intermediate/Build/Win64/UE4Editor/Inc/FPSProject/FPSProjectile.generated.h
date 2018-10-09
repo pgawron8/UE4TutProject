@@ -17,7 +17,7 @@ struct FHitResult;
 #endif
 #define FPSPROJECT_FPSProjectile_generated_h
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnHit) \
 	{ \
@@ -33,7 +33,7 @@ struct FHitResult;
 	}
 
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnHit) \
 	{ \
@@ -49,7 +49,7 @@ struct FHitResult;
 	}
 
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_INCLASS_NO_PURE_DECLS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFPSProjectile(); \
 	friend struct Z_Construct_UClass_AFPSProjectile_Statics; \
@@ -58,7 +58,7 @@ public: \
 	DECLARE_SERIALIZER(AFPSProjectile)
 
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_INCLASS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesAFPSProjectile(); \
 	friend struct Z_Construct_UClass_AFPSProjectile_Statics; \
@@ -67,7 +67,7 @@ public: \
 	DECLARE_SERIALIZER(AFPSProjectile)
 
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_STANDARD_CONSTRUCTORS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AFPSProjectile(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AFPSProjectile) \
@@ -80,7 +80,7 @@ private: \
 public:
 
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_ENHANCED_CONSTRUCTORS \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AFPSProjectile(AFPSProjectile&&); \
@@ -91,32 +91,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFPSProjectile); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AFPSProjectile)
 
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_PRIVATE_PROPERTY_OFFSET
-#define FPSProject_Source_FPSProject_FPSProjectile_h_11_PROLOG
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_GENERATED_BODY_LEGACY \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_PRIVATE_PROPERTY_OFFSET
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_11_PROLOG
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_PRIVATE_PROPERTY_OFFSET \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_INCLASS \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_STANDARD_CONSTRUCTORS \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_PRIVATE_PROPERTY_OFFSET \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_INCLASS \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FPSProject_Source_FPSProject_FPSProjectile_h_14_GENERATED_BODY \
+#define FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_PRIVATE_PROPERTY_OFFSET \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_INCLASS_NO_PURE_DECLS \
-	FPSProject_Source_FPSProject_FPSProjectile_h_14_ENHANCED_CONSTRUCTORS \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_PRIVATE_PROPERTY_OFFSET \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_INCLASS_NO_PURE_DECLS \
+	FPSProjectClone_Source_FPSProject_FPSProjectile_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FPSProject_Source_FPSProject_FPSProjectile_h
+#define CURRENT_FILE_ID FPSProjectClone_Source_FPSProject_FPSProjectile_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
